@@ -1,0 +1,6 @@
+2025-10-18 15:11:28.686 | INFO     | app.main:main_page:44 - Hello from the root path
+2025-10-18 15:11:28.687 | INFO     | app.main:hello_world:50 - hello() called!
+Log: [dad9585c-a43b-47e4-88fd-787d3dbdea8f:2025-10-18T15:16:30.672190+0300 - INFO - Successfully accessed /docs]
+Log: [4798b65b-d64a-42ac-be49-a408da4f9442:2025-10-18T15:16:30.728679+0300 - INFO - Successfully accessed /openapi.json]
+Log: [bafd2cfc-987d-4596-91da-0e166d686eb0:2025-10-18T15:16:36.737472+0300 - INFO - Successfully accessed /categories/]
+Log: [a6ae3867-34ae-4072-bcdb-6931b776c904:2025-10-18T15:16:52.840903+0300 - WARNING - Request to /test failed]
