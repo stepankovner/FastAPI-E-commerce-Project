@@ -1,0 +1,28 @@
+# Сгенерированные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Файлы зависимостей
+poetry.lock
+Pipfile.lock
+
+# Секреты и данные
+.env
+*.sqlite
+/data/
+/nginx/.dockerignore # Если есть
+
+# Docker/Compose
+# Игнорируем тома базы данных, если они создаются локально
+# НО НЕ САМИ ФАЙЛЫ DOCKERFILE И DOCKER-COMPOSE!
+postgres_data/
+
+# Alembic
+# Могут быть временные файлы или сгенерированные
+.alembic/

@@ -4,3 +4,6 @@ Log: [dad9585c-a43b-47e4-88fd-787d3dbdea8f:2025-10-18T15:16:30.672190+0300 - INF
 Log: [4798b65b-d64a-42ac-be49-a408da4f9442:2025-10-18T15:16:30.728679+0300 - INFO - Successfully accessed /openapi.json]
 Log: [bafd2cfc-987d-4596-91da-0e166d686eb0:2025-10-18T15:16:36.737472+0300 - INFO - Successfully accessed /categories/]
 Log: [a6ae3867-34ae-4072-bcdb-6931b776c904:2025-10-18T15:16:52.840903+0300 - WARNING - Request to /test failed]
+Log: [913be566-2dcf-4250-a147-f501ce42488a:2025-10-26T23:14:36.041448+0300 - INFO - Successfully accessed /docs]
+Log: [242bffdc-4350-4e51-a1d4-70dd26270bca:2025-10-26T23:14:36.146387+0300 - INFO - Successfully accessed /openapi.json]
+Log: [8b70ac0f-8680-4a5d-b4ae-c6f4d1e69384:2025-10-26T23:14:42.222955+0300 - INFO - Successfully accessed /categories/]
