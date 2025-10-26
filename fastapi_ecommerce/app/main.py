@@ -45,4 +45,3 @@ async def root():
 
 logger.add("info.log", format="Log: [{extra[log_id]}:{time} - {level} - {message}]", level="INFO", enqueue = True)
 
-
